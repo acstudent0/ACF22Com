@@ -41,7 +41,10 @@ STEP-BY-STEP:
 7. Include this file in your stage:
 * Command: > git commit -m "Initial A11"
 
-8. Now, you can start changing this file. Periodically update it in the repository, repeating the commit command.
+8. Now, you can start changing this file. Periodically update it in the repository, repeating the commit command (with the proper message).
+
+9. To be sure that your local repository is ok, check the status:
+* Command: > git status
 
 ---
 (Update: 06/09/2022)
