@@ -78,8 +78,11 @@ STEP-BY-STEP:
 3.2. Or you can select in GitHub to clone a repository by Web. So, in the end you can see something like:
 https://github.com/acstudent0/ACF22Com/import
 
+<<<<<<< HEAD
 --- 4. UPDATING FROM A REMOTE REPOSITORY ---
 > git fetch https://github.com/acstudent0/ACF22Com
 
+=======
+>>>>>>> faa701123e7a06ea39a6ee31cf11d975a706aab4
 ---
 (Update: 23/09/2022)
